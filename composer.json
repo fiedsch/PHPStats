@@ -1,17 +1,22 @@
 {
-    "name": "PHPStats/PHPStats",
+    "name": "fiedsch/php-stats",
     "type": "library",
     "description": "Statistics library",
     "keywords": ["stats","statistics"],
-    "homepage": "http://mcordingley.github.com/PHPStats",
+    "homepage": "https://github.com/fiedsch/PHPStats",
     "license": "LGPL",
     "authors": [
-        {
-            "name": "Michael Cordingley",
-            "email": "Michael.Cordingley@gmail.com",
-            "homepage": "",
-            "role": "Developer"
-        }
+      {
+        "name": "Michael Cordingley",
+        "email": "Michael.Cordingley@gmail.com",
+        "homepage": "",
+        "role": "Developer"
+      },
+      {
+        "name": "Andreas Fieger",
+        "homepage": "https://github.com/fiedsch",
+        "role": "Developer"
+      }
     ],
     "require": {
         "php": ">=5.3.0"
