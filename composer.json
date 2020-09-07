@@ -4,7 +4,7 @@
     "description": "Statistics library",
     "keywords": ["stats","statistics"],
     "homepage": "https://github.com/fiedsch/PHPStats",
-    "license": "LGPL",
+    "license": "LGPL-2.0-or-later",
     "authors": [
       {
         "name": "Michael Cordingley",
